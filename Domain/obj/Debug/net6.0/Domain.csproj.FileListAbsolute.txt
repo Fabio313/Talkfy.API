@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\bin\Debug\net6.0\CrossCutting.dll
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\bin\Debug\net6.0\CrossCutting.pdb
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\bin\Debug\net6.0\Infraestructure.Data.deps.json
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\bin\Debug\net6.0\Infraestructure.Data.dll
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\bin\Debug\net6.0\Infraestructure.Data.pdb
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\bin\Debug\net6.0\CrossCutting.dll
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\bin\Debug\net6.0\Domain.dll
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\bin\Debug\net6.0\CrossCutting.pdb
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\bin\Debug\net6.0\Domain.pdb
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\obj\Debug\net6.0\Infraestructure.Data.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\obj\Debug\net6.0\Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\obj\Debug\net6.0\Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\obj\Debug\net6.0\Infraestructure.Data.AssemblyInfo.cs
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\obj\Debug\net6.0\Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\obj\Debug\net6.0\Infraestructure.Data.csproj.CopyComplete
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\obj\Debug\net6.0\Infraestructure.Data.dll
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\obj\Debug\net6.0\refint\Infraestructure.Data.dll
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\obj\Debug\net6.0\Infraestructure.Data.pdb
+C:\Users\fabio\Desktop\GitProjects\Talkfy\Infraestructure.Data\obj\Debug\net6.0\ref\Infraestructure.Data.dll
